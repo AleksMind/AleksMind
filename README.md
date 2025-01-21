@@ -2,9 +2,8 @@
   <h1>Hi there, my name is Sasha!</h1>
   <h2>I'm Software Engineer from Minsk, Belarus</h2>
 </div>
-<img src="https://komarev.com/ghpvc/?username=AleksMind&style=flat-square&color=blue" alt=""/>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFsMjkwdmJneHE3a3hzNmRnazBjczhzYnMzMXk1MXBtczI1c2Q3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
 </div>
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
