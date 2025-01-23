@@ -24,8 +24,8 @@ I am a student of BSUIR, the leading IT university in Belarus.
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML" target="_blank" rel="noreferrer">
+    <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML" />
   </a>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" />
@@ -61,5 +61,5 @@ I am a student of BSUIR, the leading IT university in Belarus.
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+https://github-readme-streak-stats.herokuapp.com/?user=AleksMind
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AleksMind&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&short_numbers=%D0%9B%D0%9E%D0%96%D0%AC)](https://git.io/streak-stats)
