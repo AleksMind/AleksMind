@@ -58,7 +58,8 @@ I am a student of BSUIR, the leading IT university in Belarus.
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" />
   </a>
 </div>
+
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AleksMind&theme=dark&background=000000)](https://git.io/streak-stats)
+### My Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksMind&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
