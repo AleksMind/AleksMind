@@ -31,11 +31,11 @@ I am a student of BSUIR, the leading IT university in Belarus.
     <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" />
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming Logo" style="width: 48; height: 48;">
-</a>
-
-
-
+    <img align="left" src="https://img.icons8.com/color/48/000000/c-programming.png" width="43" height="43" alt="C" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img align="left" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="38" height="40" alt="C++" />
+  </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" />
   </a>
@@ -44,7 +44,7 @@ I am a student of BSUIR, the leading IT university in Belarus.
   </a>
 </div>
 
----
+<br/>
 
 ### My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksMind&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
