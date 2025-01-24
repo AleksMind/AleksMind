@@ -61,5 +61,4 @@ I am a student of BSUIR, the leading IT university in Belarus.
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=AleksMind
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AleksMind&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&short_numbers=%D0%9B%D0%9E%D0%96%D0%AC)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AleksMind&theme=dark&background=000000)](https://git.io/streak-stats)
