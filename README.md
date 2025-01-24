@@ -30,32 +30,17 @@ I am a student of BSUIR, the leading IT university in Belarus.
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" />
   </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
-  </a>
-  <a href="https://doka-guide.vercel.app/js/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="TypeScript" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" />
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="40" height="40" alt="Vite" />
-  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming Logo" style="width: 48; height: 48;">
+</a>
+
+
+
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" />
   </a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
     <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="40" height="40" alt=".NET" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" />
   </a>
 </div>
 
