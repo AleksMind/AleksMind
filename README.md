@@ -5,14 +5,16 @@
 <div align="center">
   <img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFjMzk5dHhzdHd4ZmJyeTJpdmR5ZGF4bWlmNHA3dWJqNzBhaW12cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
 </div>
-<h2>🌱 About Me:</h2>
+<h2>🌠 About Me:</h2>
 I am a student of BSUIR, the leading IT university in Belarus 💻
 
 - 🎓 I am currently in my third year of university.
 
 - 🔥 I am actively involved not only in the academic life of my university, but also in various aspects of extracurricular activities: volunteering and events from the university
 
-- 
+- 🖋️
+  
+- 🎠🌠
   
   ---
 
