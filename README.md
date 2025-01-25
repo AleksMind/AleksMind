@@ -48,7 +48,7 @@ I am a student of BSUIR, the leading IT university in Belarus.
 
 ### My Stats:
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AleksMind&theme=merko" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AleksMind&theme=merko" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AleksMind&theme=city_lights" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AleksMind&theme=city_lights" alt=""/>
 </div>
 
