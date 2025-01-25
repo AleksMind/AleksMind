@@ -1,22 +1,22 @@
-<div id="header" align="center">
-  <h1>Hi there, my name is Sasha!</h1>
-  <h2>I'm Software Engineer from Minsk, Belarus</h2>
+<div align="center">
+<h1>💙 Hi there, my name is Sasha!</h1>
+<h2>I'm Software Engineer from Minsk, Belarus</h2>
 </div>
 <div align="center">
   <img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFjMzk5dHhzdHd4ZmJyeTJpdmR5ZGF4bWlmNHA3dWJqNzBhaW12cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
 </div>
-<h2>About Me:</h2>
-I am a student of BSUIR, the leading IT university in Belarus.
+<h2>🌱 About Me:</h2>
+I am a student of BSUIR, the leading IT university in Belarus 💻
 
-- I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🎓 I am currently in my third year of university.
 
-- Exploring Technical Content Writing.
+- 🔥 I am actively involved not only in the academic life of my university, but also in various aspects of extracurricular activities: volunteering and events from the university
 
-- In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 
   
   ---
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />
@@ -46,7 +46,7 @@ I am a student of BSUIR, the leading IT university in Belarus.
 
 <br/>
 
-### My Stats:
+### 📊 My Stats:
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AleksMind&theme=city_lights" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AleksMind&theme=city_lights" alt=""/>
