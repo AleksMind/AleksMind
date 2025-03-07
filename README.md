@@ -11,10 +11,6 @@ I am a student of BSUIR, the leading IT university in Belarus 💻
 - 🎓 I am currently in my third year of university.
 
 - 🔥 I am actively involved not only in the academic life of my university, but also in various aspects of extracurricular activities: volunteering and events from the university
-
-- 🖋️
-  
-- 🎠🌠
   
   ---
 
