@@ -1,12 +1,9 @@
 <div align="center">
-  
-<!-- Анимированный заголовок -->
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=27B9F7&center=true&vCenter=true&width=600&lines=💙+Hi+there,+my+name+is+Sasha!;🚀+Software+Engineer+from+Minsk" alt="Typing SVG" />
 
-<!-- GIF приветствие -->
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFjMzk5dHhzdHd4ZmJyeTJpdmR5ZGF4bWlmNHA3dWJqNzBhaW12cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
 
-<!-- Счетчики -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AleksMind&style=flat-square&color=blue" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/AleksMind?style=social" alt="GitHub Followers"/>
@@ -58,7 +55,6 @@ I am a student of **BSUIR**, the leading IT university in Belarus 💻 Currently
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AleksMind&theme=city_lights&exclude=html,css" alt="Most Used Languages"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AleksMind&theme=city_lights" alt="GitHub Stats"/>
-<img src="https://activity-graph.herokuapp.com/graph?username=AleksMind&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 </div>
 
