@@ -9,7 +9,7 @@
 <!-- Счетчики -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AleksMind&style=flat-square&color=blue" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Dynamic/json?&color=0275D8&label=Followers&query=%24..followers&url=https://api.github-star-counter.workers.dev/user/AleksMind" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/AleksMind?style=social" alt="GitHub Followers"/>
 </div>
 
 </div>
