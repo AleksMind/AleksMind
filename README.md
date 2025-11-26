@@ -14,7 +14,6 @@
 
 </div>
 
-<!-- Обо мне с иконками -->
 <h2>🌠 About Me:</h2>
 
 <div align="center">
@@ -29,7 +28,6 @@ I am a student of **BSUIR**, the leading IT university in Belarus 💻 Currently
 
 ---
 
-<!-- Навыки с анимированными иконками -->
 <h2>🛠️ Tech Stack</h2>
 
 <div align="center">
@@ -54,45 +52,30 @@ I am a student of **BSUIR**, the leading IT university in Belarus 💻 Currently
 
 ---
 
-<!-- Статистика GitHub -->
 <h2>📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<!-- Основная статистика -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AleksMind&theme=city_lights&exclude=html,css" alt="Most Used Languages"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AleksMind&theme=city_lights" alt="GitHub Stats"/>
-
-<!-- Streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AleksMind&theme=city_lights&hide_border=false" alt="GitHub Streak"/>
-
-<!-- Activity Graph -->
 <img src="https://activity-graph.herokuapp.com/graph?username=AleksMind&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-<!-- Контакты -->
 <h2>📫 Let's Connect!</h2>
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aleks_mind)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasha_zayats04@mail.ru)
 
 </div>
 
 ---
 
 <div align="center">
-  
-<!-- Цитата -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=city_lights" alt="Random Quotes"/>
-
-<!-- Анимированная футер-линия -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 **⭐️ From Minsk with code! ⭐️**
 
