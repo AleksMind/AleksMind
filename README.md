@@ -1,223 +1,49 @@
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=27B9F7&center=true&vCenter=true&width=600&lines=💙+Hi+there,+my+name+is+Sasha!;🚀+Software+Engineer+from+Minsk" alt="Typing SVG" /><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFjMzk5dHhzdHd4ZmJyeTJpdmR5ZGF4bWlmNHA3dWJqNzBhaW12cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/><div align="center"> <img src="https://komarev.com/ghpvc/?username=AleksMind&style=flat-square&color=blue" alt="Profile views"/> <img src="https://img.shields.io/github/followers/AleksMind?style=social" alt="GitHub Followers"/> <img src="https://img.shields.io/github/stars/AleksMind?style=social" alt="GitHub Stars"/> </div></div><h2>🌠 About Me:</h2><div align="center">
+🎓	🔥	💼	🌱
+3rd Year BSUIR Student	Active Volunteer	Passionate Coder	Constant Learner
+</div>
+I'm a passionate software engineering student at BSUIR with a strong interest in backend development and creating efficient, scalable solutions. When I'm not coding, you can find me contributing to open-source projects or exploring new technologies! 🚀
+
+<h2>🛠️ Tech Stack</h2><div align="center">
+💻 Programming Languages
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+🌐 Web Development
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/>
+🗄️ Databases & Tools
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30"/></div>
+<h2>🚀 My Projects</h2><div align="center">
+🔥 Featured Repositories
+https://github-readme-stats.vercel.app/api/pin/?username=AleksMind&repo=your-awesome-project&theme=city_lights
+https://github-readme-stats.vercel.app/api/pin/?username=AleksMind&repo=another-cool-project&theme=city_lights
+
+</div>
+<h2>📊 GitHub Analytics</h2><div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AleksMind&theme=city_lights&exclude=html,css" alt="Most Used Languages" height="180"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AleksMind&theme=city_lights" alt="GitHub Stats" height="180"/>
+https://github-readme-streak-stats.herokuapp.com/?user=AleksMind&theme=city_lights&hide_border=true
+
+https://github-readme-activity-graph.vercel.app/graph?username=AleksMind&theme=react-dark&hide_border=true&area=true
+
+</div>
+<h2>🏆 GitHub Trophies</h2><div align="center">
+https://github-profile-trophy.vercel.app/?username=AleksMind&theme=onedark&no-frame=true&row=1&column=4
+
+</div>
+<h2>🎵 Currently Coding To</h2><div align="center">
+https://spotify-readme-ecru.vercel.app/api?theme=dark
+
+</div>
+<h2>📫 Let's Connect!</h2><div align="center">
+https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white
+
+</div>
 <div align="center">
+💡 Random Dev Quote
+https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
 
-<!-- Анимированный заголовок с эффектом -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=27B9F7&center=true&vCenter=true&width=600&lines=💙+Hi+there,+my+name+is+Sasha!;🚀+Software+Engineer+from+Minsk;🎯+BSUIR+Student+%26+Tech+Enthusiast" alt="Typing SVG" />
+⭐️ From Minsk with code! ⭐️
 
-<!-- Анимированный баннер -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/3792778081c10cbba6cbc349e28c56e16efd51c7/banner_header.png" width="100%"/>
-</div>
-
-<!-- Интерактивные счетчики -->
-<div align="center">
-  <a href="https://github.com/AleksMind?tab=repositories">
-    <img src="https://komarev.com/ghpvc/?username=AleksMind&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/AleksMind?tab=followers">
-    <img src="https://img.shields.io/github/followers/AleksMind?style=for-the-badge&color=27B9F7&label=FOLLOWERS" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/AleksMind?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-10+-success?style=for-the-badge&color=green" alt="Repositories"/>
-  </a>
-</div>
-
-</div>
-
-<!-- Интерактивная секция "Обо мне" -->
-<h2>🚀 About Me</h2>
-
-<div align="center">
-
-<!-- Анимированные карточки -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-<div style="text-align: center;">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
-  <h3>🎓 Student</h3>
-  <p>3rd Year at BSUIR</p>
-</div>
-
-<div style="text-align: center;">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80">
-  <h3>💻 Developer</h3>
-  <p>Full-Stack Enthusiast</p>
-</div>
-
-<div style="text-align: center;">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80">
-  <h3>🔥 Volunteer</h3>
-  <p>Community Builder</p>
-</div>
-
-</div>
-
-<!-- Кастомный прогресс-бар навыков -->
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎯 My Coding Journey</h3>
-      <p>Passionate about creating efficient and scalable solutions. Always learning and exploring new technologies!</p>
-      <p>📍 <b>Current Focus:</b> Backend Development & Mobile Apps</p>
-      <p>🎯 <b>Goal:</b> Become a Full-Stack Expert</p>
-    </td>
-    <td width="50%">
-      <h3>📈 Skill Progress</h3>
-      <p>C# & .NET <progress value="85" max="100"></progress> 85%</p>
-      <p>JavaScript <progress value="70" max="100"></progress> 70%</p>
-      <p>Kotlin <progress value="60" max="100"></progress> 60%</p>
-      <p>Databases <progress value="75" max="100"></progress> 75%</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<!-- Интерактивная секция технологий -->
-<h2>🛠️ Tech Stack & Tools</h2>
-
-<div align="center">
-
-<!-- 3D эффект для технологий -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 15px;">
-
-<!-- Programming Languages -->
-<div style="text-align: center; padding: 15px; border-radius: 10px; background: linear-gradient(145deg, #1a1a2e, #16213e);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <p><b>C#</b></p>
-</div>
-
-<div style="text-align: center; padding: 15px; border-radius: 10px; background: linear-gradient(145deg, #1a1a2e, #16213e);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <p><b>JavaScript</b></p>
-</div>
-
-<div style="text-align: center; padding: 15px; border-radius: 10px; background: linear-gradient(145deg, #1a1a2e, #16213e);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
-  <p><b>Kotlin</b></p>
-</div>
-
-<div style="text-align: center; padding: 15px; border-radius: 10px; background: linear-gradient(145deg, #1a1a2e, #16213e);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <p><b>C++</b></p>
-</div>
-
-<!-- Web Technologies -->
-<div style="text-align: center; padding: 15px; border-radius: 10px; background: linear-gradient(145deg, #1a1a2e, #16213e);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <p><b>HTML5</b></p>
-</div>
-
-<div style="text-align: center; padding: 15px; border-radius: 10px; background: linear-gradient(145deg, #1a1a2e, #16213e);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <p><b>CSS3</b></p>
-</div>
-
-<!-- Databases & Tools -->
-<div style="text-align: center; padding: 15px; border-radius: 10px; background: linear-gradient(145deg, #1a1a2e, #16213e);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <p><b>PostgreSQL</b></p>
-</div>
-
-<div style="text-align: center; padding: 15px; border-radius: 10px; background: linear-gradient(145deg, #1a1a2e, #16213e);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
-  <p><b>.NET</b></p>
-</div>
-
-<div style="text-align: center; padding: 15px; border-radius: 10px; background: linear-gradient(145deg, #1a1a2e, #16213e);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <p><b>Git</b></p>
-</div>
-
-</div>
-
-</div>
-
----
-
-<!-- Улучшенная статистика GitHub -->
-<h2>📊 GitHub Analytics</h2>
-
-<div align="center">
-
-<!-- Комплексная статистика -->
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AleksMind&show_icons=true&theme=city_lights&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksMind&layout=compact&theme=city_lights&hide_border=true&exclude_repo=github-readme-stats,AleksMind.github.io" alt="Top Languages" height="165"/>
-
-</div>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AleksMind&theme=city_lights&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%"/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AleksMind&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
-
-</div>
-
----
-
-<!-- Секция проектов -->
-<h2>💼 Featured Projects</h2>
-
-<div align="center">
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-
-<!-- Project Card 1 -->
-<div style="padding: 20px; border-radius: 10px; background: linear-gradient(145deg, #1a1a2e, #16213e);">
-  <h3>🚀 Project 1</h3>
-  <p>Amazing project description here. Built with C# and .NET</p>
-  <div>
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
-  </div>
-</div>
-
-<!-- Project Card 2 -->
-<div style="padding: 20px; border-radius: 10px; background: linear-gradient(145deg, #1a1a2e, #16213e);">
-  <h3>📱 Project 2</h3>
-  <p>Mobile app built with Kotlin and modern architecture</p>
-  <div>
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android"/>
-  </div>
-</div>
-
-</div>
-
-</div>
-
----
-
-<!-- Интерактивные контакты -->
-<h2>📫 Let's Connect!</h2>
-
-<div align="center">
-
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Message%20Me)](https://t.me/aleks_mind)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=sasha_zayats04@mail.ru)](mailto:sasha_zayats04@mail.ru)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Follow%20Me)](https://github.com/AleksMind)
-
-</div>
-
-<!-- Анимированная змейка -->
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Кастомный футер -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=27B9F7&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff" width="100%"/>
-
-**✨ Coding the future, one line at a time ✨**
+https://github.com/AleksMind/AleksMind/blob/output/github-contribution-grid-snake.svg
 
 </div>
